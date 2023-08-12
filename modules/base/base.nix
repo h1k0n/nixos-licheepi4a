@@ -82,7 +82,6 @@
         pyyaml
 
         numpy
-        opencv4
       ]
     ))
   ];
